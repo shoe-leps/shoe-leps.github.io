@@ -34,7 +34,7 @@ h1 {
 }
 @media (max-width: 768px) {
   h1 {
-    font-size: 30px;
+    font-size: 45px;
     padding: 10px;
   }
   #navigation {
